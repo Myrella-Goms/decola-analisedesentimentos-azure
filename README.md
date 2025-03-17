@@ -13,7 +13,5 @@ Este repositório contém as seguintes pastas e arquivos:
 * inputs/: Contém o arquivo de texto com as sentenças a serem analisadas.
 
 ## Resultados da Análise de Sentimentos
-
-"A Avanade é um sonho!" → Sentimento: Positivo, Opnion: Avanade.
-"Fui a um restaurante, mas não gostei da comida." → Sentimento: Negativo, Opnion: Comida.
-"Eu ando de bicicleta." → Sentimento: Neutro, Opnion: Bicicleta.
+<img src="https://github.com/Myrella-Goms/decola-analisedesentimentos-azure/blob/main/Captura%20de%20tela%202025-03-17%20153727.png">
+<img src="https://github.com/Myrella-Goms/decola-analisedesentimentos-azure/blob/main/sentenca2%20(1).png">
